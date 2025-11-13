@@ -1,4 +1,7 @@
+
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
+
+
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
@@ -101,6 +104,7 @@ Users sign a challenge with their private key for authentication.
 
 
 The smart contract verifies signatures to confirm identity.
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/c2f6a527-766f-48b8-bcfc-1db3242f4661" />
 
 
 
@@ -114,3 +118,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+THIS BLOCKCHAIN BASED PASSWORDLESS AUTHENTICATION ISIMPLEMENTED SUCCESSFULLY
